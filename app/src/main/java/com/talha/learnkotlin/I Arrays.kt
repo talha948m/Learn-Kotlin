@@ -22,6 +22,6 @@ fun main(){
     arr.set(0,"hello")
     println(arr[0])
     println(arr.size)
-            // the size of the array is 3 if we go beyond that what will happen
+            // the size of the array is 3 if we go beyond that what will happen it will say indexOutOfBonds
     println(arr[3])
-}     
+ }
