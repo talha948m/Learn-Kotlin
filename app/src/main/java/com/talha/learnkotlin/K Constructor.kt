@@ -7,7 +7,7 @@ package com.talha.learnkotlin
 // we create class for we need object in that properties & methods
 //in that properties/object  we want to give default value
 //so we use constructor
-//simple in a class we have two things properties & methods
+//simple in a class we have two things properties & methods.
 
 fun main (){
     //object
